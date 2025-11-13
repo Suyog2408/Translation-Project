@@ -1,2 +1,2 @@
 # Translation-Project
-Simple
+Use debug to run project 
